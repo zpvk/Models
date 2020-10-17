@@ -8,7 +8,7 @@ while True:
 
     frame = cv2.cvtColor(frame,0)
 
-    detections = cascade_classifier.detectMultiScale(frame)
+    detections = cascade_classifier.detectMultiScale(gray, 1.3, 5)
 
     if(len(detections)>0):
         (x,y,w,h) = detections[0]
