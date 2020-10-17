@@ -284,3 +284,52 @@
           <leafValues>
             5.5766099691390991e-01 -1.1843159794807434e-01</leafValues></_></weakClassifiers></_>
     <_>
+          <maxWeakCount>23</maxWeakCount>
+      <stageThreshold>-1.2179850339889526e+00</stageThreshold>
+      <weakClassifiers>
+        <_>
+          <internalNodes>
+            0 -1 43 -2.9943080618977547e-02</internalNodes>
+          <leafValues>
+            3.5810810327529907e-01 -3.8487631082534790e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 44 -1.2567380070686340e-01</internalNodes>
+          <leafValues>
+            3.9316931366920471e-01 -3.0012258887290955e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 45 5.3635272197425365e-03</internalNodes>
+          <leafValues>
+            -4.3908619880676270e-01 1.9257010519504547e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 46 -8.0971820279955864e-03</internalNodes>
+          <leafValues>
+            3.9906668663024902e-01 -2.3407870531082153e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 47 -1.6597909852862358e-02</internalNodes>
+          <leafValues>
+            4.2095288634300232e-01 -2.2674840688705444e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 48 -2.0199299324303865e-03</internalNodes>
+          <leafValues>
+            -7.4156731367111206e-01 1.2601189315319061e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 49 -1.5202340437099338e-03</internalNodes>
+          <leafValues>
+            -7.6154601573944092e-01 8.6373612284660339e-02</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 50 -4.9663940444588661e-03</internalNodes>
+          <leafValues>
+            4.2182239890098572e-01 -1.7904919385910034e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 51 -1.9207600504159927e-02</internalNodes>
+          <leafValues>
+            4.6894899010658264e-01 -1.4378750324249268e-01</leafValues></_>
+        <_>
