@@ -2698,3 +2698,52 @@
             1.7945900559425354e-01 -1.2023670226335526e-01</leafValues></_>
         <_>
           <internalNodes>
+            0 -1 516 3.2412849832326174e-03</internalNodes>
+          <leafValues>
+            4.0688131004571915e-02 -5.4600572586059570e-01</leafValues></_></weakClassifiers></_>
+    <_>
+      <maxWeakCount>44</maxWeakCount>
+      <stageThreshold>-1.2529590129852295e+00</stageThreshold>
+      <weakClassifiers>
+        <_>
+          <internalNodes>
+            0 -1 517 5.2965320646762848e-03</internalNodes>
+          <leafValues>
+            -1.2154529988765717e-01 6.4420372247695923e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 518 -2.5326260365545750e-03</internalNodes>
+          <leafValues>
+            5.1233220100402832e-01 -1.1108259856700897e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 519 -2.9183230362832546e-03</internalNodes>
+          <leafValues>
+            -5.0615429878234863e-01 1.1501979827880859e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 520 -2.3692339658737183e-02</internalNodes>
+          <leafValues>
+            3.7167280912399292e-01 -1.4672680199146271e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 521 2.0177470520138741e-02</internalNodes>
+          <leafValues>
+            -1.7388840019702911e-01 4.7759491205215454e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 522 -2.1723210811614990e-02</internalNodes>
+          <leafValues>
+            -4.3880090117454529e-01 1.3576899468898773e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 523 2.8369780629873276e-03</internalNodes>
+          <leafValues>
+            -1.2512069940567017e-01 4.6789029240608215e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 524 2.7148420922458172e-03</internalNodes>
+          <leafValues>
+            -8.8018856942653656e-02 3.6866518855094910e-01</leafValues></_>
+        <_>
+          <internalNodes>
