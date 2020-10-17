@@ -21,4 +21,4 @@ while True:
 
 #when everything done, relase the capture
 cap.release()
-cv2.destroyAllWindows()
+
