@@ -7,7 +7,7 @@ function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)
 m = length(y); % number of training examples
 J_history = zeros(num_iters, 1);
 
-for iter = 1:num_iters
+for iter = 1:num_iters,
 
     % ====================== YOUR CODE HERE ======================
     % Instructions: Perform a single gradient step on the parameter vector
@@ -17,7 +17,7 @@ for iter = 1:num_iters
     %       of the cost function (computeCost) and gradient here.
     %
     
-    pred = theta' * X;
+    pred = X * theta';
     
     temp_theta1 = theta(1)-alpha*(1/m)*(pred - y);
     temp_theta2 = theta(2)-alpha*(1/m)*(pred - y)*X;
