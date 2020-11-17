@@ -15,9 +15,9 @@ p = zeros(m, 1);
 %               You should set p to a vector of 0's and 1's
 %
 
-p = sigmoid(X*theta)' >= 0.5;
-
-
+prob = sigmoid(X * theta);
+p = ones(m, 1);					% initialize all predictions to ones first
+p( find(prob<0.5) ) = 0;
 
 
 % =========================================================================
